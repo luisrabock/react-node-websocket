@@ -20,7 +20,7 @@
 In this project i create a Call Center with React, Socket io and Node.js to answer phone calls in a fully automated way!
 
   
-Thanks to rodrigo branas who did the great tutorial:
+Thanks to rodrigo branas who did this great tutorial:
 
 [https://www.youtube.com/watch?v=XVOu1Kb5Ji4](https://www.youtube.com/watch?v=XVOu1Kb5Ji4)
 
