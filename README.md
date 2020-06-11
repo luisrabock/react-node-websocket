@@ -32,6 +32,10 @@ You need to install  [Node.js](https://nodejs.org/en/download/)  and  [Npm]([htt
 
 Clone repo: [https://github.com/luisrabock/react-node-websocket](https://github.com/luisrabock/react-node-websocket)
 
+You must create an account at https://www.totalvoice.com.br/.
+
+With API_KEY, replace the environment variable **(TOTALVOICE_API_KEY)**
+
 🧪 **Development environment**:
 
 Enter the server folder (backend) then install the dependencies:
